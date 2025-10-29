@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7o+j9zoap&08evx@g43g4)!fcw3h!hb=jxoi9f=&wq5u-&25&+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '127.0.0.1:8000', 'http://192.168.30.108:8000/', '192.168.30.108:8000', '192.168.30.108', 'peitel-backend-aid8.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1', '127.0.0.1:8000', 'http://192.168.30.108:8000/', '192.168.30.108:8000', '192.168.30.108', 'peitel-backend-aid8.onrender.com', 'http://peitel-backend-aid8.onrender.com/']
 
 
 # Application definition
